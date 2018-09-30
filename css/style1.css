@@ -1,0 +1,126 @@
+body
+{
+    margin:0;
+    padding: 0;
+}
+a
+{
+    text-decoration: none;
+    color: white;
+}
+input
+{
+	border: none;
+	font-size: 10px;
+	padding: 8px 10px;
+	border-radius: 5px;
+	border-bottom: 3px solid gray;
+	font-family: Arimo;
+}
+span
+{
+	color: white;
+	font-size: 15px;
+	font-style: bold;
+	font-family: Arimo;
+}
+.img
+{
+	height: 75px;
+	width: 75px;
+	margin-top: -25%;
+	padding-left: 0;
+}
+
+.nav1
+{
+	padding: 2%;
+	margin: 0;
+	font-size: 26px;
+	width: 46%;
+	float: left;
+	background-color:#006666;
+	font-style: bold;
+	border-radius: 7px 0 0 0;
+}
+.nav2
+{
+	padding: 2%;
+	margin: 0;
+	font-size: 26px;
+	width: 46%;
+	float: left;
+	background-color: #5c7b1e;
+	border-radius: 0 7px 0 0;
+}
+.header
+{
+	color: white;
+	font-family: Cinzel Decorative;
+	font-size: 30px;
+	font-style: bold;
+}
+.headeruser
+{
+	color: white;
+	font-size: 24px;
+	font-family: Arimo;
+}
+.submitbody
+{
+	width: 35%;
+  	margin: 6% 32% auto;
+    position: absolute;
+    text-align: center;
+	background-color:	#008B8B;	
+	border-radius: 7px;
+}
+.submitbody button
+{
+	font-size: 20px;
+	font-family: Cinzel Decorative;
+	color: white;
+	border:none;
+	padding: 7px 15px;
+	background-color:#006666;
+	border-radius: 5px;
+	border:0.5px solid white;
+}
+.submitbody button:hover
+{
+	background-color: white;
+	color: #006666;
+	border:2px solid #006666;
+	font-style: bold;
+	cursor: pointer;
+}
+.submitbody2
+{
+	width: 35%;
+	height: 50%;
+  	margin: 11% 32% auto;
+    position: absolute;
+    text-align: center;	
+	border-radius: 7px;
+	background-color:  #8ab92d;	
+}
+.submitbody2 button
+{
+	font-size: 20px;
+	font-family: Cinzel Decorative;
+	color: white;
+	border:none;
+	padding: 7px 20px;
+	background-color: #5c7b1e;
+	border-radius: 5px;
+	border:0.5px solid white;
+}
+.submitbody2 button:hover
+{
+	background-color: white;
+	color:  #7ba428;
+	font-style: bold;
+	border:2px solid  #7ba428;
+	font-style: bold;
+	cursor: pointer;
+}
